@@ -1,4 +1,4 @@
-## ShamJam '19##
+## ShamJam '19
 
 My first game jam. Worked with a team of 5, was the only programmer.</br>
 Wrote .cs files for generating character bios & stats, menu navigation, score calculation.</br>
@@ -14,7 +14,7 @@ Intent of the "God's love" stat is to encourage players to make "more holy" sacr
 by killing off villagers with more positive stats.
 
 
-## Ludum Dare #44 ##
+## Ludum Dare #44
 My second game jam. Worked alone.</br>
 Wrote .cs files for a top down shooter (WASD & mouse for aiming), a shop with randomly selected items, and a skill tree.</br>
 NOTE: This project was not finished.
