@@ -16,7 +16,7 @@ by killing off villagers with more positive stats.
 
 ## Ludum Dare #44 ##
 My second game jam. Worked alone.</br>
-Wrote .cs </br>
+Wrote .cs files for a top down shooter (WASD & mouse for aiming), a shop with randomly selected items, and a skill tree.</br>
 NOTE: This project was not finished.
 
 **Theme:**</br>
