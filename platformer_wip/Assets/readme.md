@@ -11,6 +11,7 @@ This is a WIP general template for a 2.5D platformer.
 - Ranged attacks (hitscan)
 - Template for enemies
 - Template for objects that deal damage to the player
+- Temporary invulnerability after taking damage
 
 ## WIP
 
