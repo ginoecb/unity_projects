@@ -8,7 +8,7 @@ This is a WIP general template for a 2.5D platformer.
 - Wall jumping
 - Climb vertical walls given an amount of stamina, with a reset upon landing on solid terrain
 - Melee attacks
-- Ranged attacks (hitscan), with knockback
+- Ranged attacks (hitscan)
 - Template for enemies
 - Template for objects that deal damage to the player
 
