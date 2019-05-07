@@ -1,8 +1,8 @@
-##Overview
+## Overview
 
 This is a WIP general template for a 2.5D platformer.
 
-##Features
+## Features
 
 - Multiple jumps, with a reset upon landing on solid terrain
 - Wall jumping
@@ -12,12 +12,12 @@ This is a WIP general template for a 2.5D platformer.
 - Template for enemies
 - Template for objects that deal damage to the player
 
-##WIP
+## WIP
 
 - Ranged attacks (projectile), with knockback
 - Particle effects when performing ranged attacks
 
-##TODO
+## TODO
 
 - UI for health, stamina, etc.
 - Animations using assets from Mixamo
